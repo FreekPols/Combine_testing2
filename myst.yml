@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 365d05d4-6c3b-4516-8c20-306823cf630d
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/FreekPols/Combine_testing2
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
